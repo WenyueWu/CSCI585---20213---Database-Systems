@@ -17,6 +17,5 @@ And I use table division in my query.  I use Symptom table divided the table mad
 \\CSCI585-f21data-HW2\\
 
 			Name	Wenyue Wu
-			USC_ID	#9140890966
 			Email	wenyuewu@usc.edu
 =======================================
