@@ -1,0 +1,171 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Health center</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2887101850045,34.02497891520108</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lyon center</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.288444426288,34.02472392984444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cromwell Field</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28706489486818,34.022185653740564</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Viterbi</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28875441829328,34.02091164706839</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>USC Bookstores</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28646378483482,34.02091308895304</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trojan Statue</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285414414432,34.0204903815472</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Traveler Statue</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28521736859099,34.020161798135746</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Library for IPA</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2841689047574,34.02167177296618</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Leavey Library</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2829088532536,34.02144445575226</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>DM Library</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28409732330431,34.02030099652159</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bing Theatre</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28565744285763,34.022281575178255</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hecuba Statue</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.2847643551587,34.02500228028197</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Home</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.30013371302617,34.02713792283306</coordinates>
+</Point>
+</Placemark>
+
+ <Style id="transBluePoly">
+ <LineStyle>
+ <width>1.5</width>
+ </LineStyle>
+ <PolyStyle>
+ <color>3fff0000</color>
+ </PolyStyle>
+ </Style>
+ <Placemark>
+ <name>convex hull</name>
+ <styleUrl>#transBluePoly</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>3</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates> -118.28521736859099,34.020161798135746
+-118.28875441829328,34.02091164706839
+-118.30013371302617,34.02713792283306
+-118.2847643551587,34.02500228028197
+-118.2829088532536,34.02144445575226
+-118.28409732330431,34.02030099652159
+-118.28521736859099,34.020161798135746 </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<!-- nearest-neighbor -->
+<Style id="yellowLineGreenPoly">
+ <LineStyle>
+ <width>3</width>
+ </LineStyle>
+ <PolyStyle>
+ <color>7d00ff00</color>
+ </PolyStyle>
+ </Style>
+<Placemark>
+<name>1 Health center</name>
+ <styleUrl>#yellowLineGreenPoly</styleUrl>
+<LineString>
+<coordinates>-118.30013371302617,34.02713792283306
+-118.2887101850045,34.02497891520108</coordinates>
+ </LineString> 
+</Placemark>
+<Placemark>
+<name>2 Lyon center</name>
+ <styleUrl>#yellowLineGreenPoly</styleUrl>
+<LineString>
+<coordinates>-118.30013371302617,34.02713792283306
+-118.288444426288,34.02472392984444</coordinates>
+ </LineString> 
+</Placemark>
+<Placemark>
+<name>3 Viterbi</name>
+ <styleUrl>#yellowLineGreenPoly</styleUrl>
+<LineString>
+<coordinates>-118.30013371302617,34.02713792283306
+-118.28875441829328,34.02091164706839</coordinates>
+ </LineString> 
+</Placemark>
+<Placemark>
+<name>4 Cromwell Field</name>
+ <styleUrl>#yellowLineGreenPoly</styleUrl>
+<LineString>
+<coordinates>-118.30013371302617,34.02713792283306
+-118.28706489486818,34.022185653740564</coordinates>
+ </LineString> 
+</Placemark>
+</Document>
+</kml>
