@@ -44,7 +44,6 @@ Building 		generate 		Meeting
 \\CSCI585-f21data-HW1\\
 
 			Name	Wenyue Wu
-			USC_ID	#9140890966
 			Email	wenyuewu@usc.edu
 =======================================
 
