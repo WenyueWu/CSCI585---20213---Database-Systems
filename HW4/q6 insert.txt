@@ -1,0 +1,81 @@
+[
+ {
+   "name": "Health center",
+   "popularity": 60,
+   "loc":[34.02497891520108,-118.2887101850045] ,
+   "locationType": "health"
+ },
+ {
+   "name": "Lyon center",
+   "popularity": 88,
+   "loc":[34.02472392984444,-118.288444426288],
+   "locationType": "health"
+ },
+  {
+   "name": "Cromwell Field",
+   "popularity": 76,
+   "loc":[34.022185653740564,-118.28706489486818],
+   "locationType": "health"
+ },
+  {
+   "name": "Viterbi",
+   "popularity": 98,
+   "loc":[34.02091164706839,-118.28875441829328] ,
+   "locationType": "building"
+ },
+  {
+   "name": "USC Bookstores",
+   "popularity": 93,
+   "loc":[34.02091308895304,-118.28646378483482],
+   "locationType": "building"
+ },
+  {
+   "name": "Trojan Statue",
+   "popularity": 100,
+   "loc":[34.0204903815472,-118.285414414432],
+   "locationType": "statue"
+ },
+  {
+   "name": "Traveler Statue",
+   "popularity": 99,
+   "loc":[34.020161798135746,-118.28521736859099],
+   "locationType": "statue"
+ },
+  {
+   "name": "Library for I&PA",
+   "popularity": 76,
+   "loc":[34.02167177296618,-118.2841689047574],
+   "locationType": "library"
+ },
+  {
+   "name": "Leavey Library",
+   "popularity": 95,
+   "loc":[34.02144445575226,-118.2829088532536],
+   "locationType": "library"
+ },
+  {
+   "name": "DM Library",
+   "popularity": 85,
+   "loc":[34.02030099652159,-118.28409732330431],
+   "locationType": "library"
+ },
+  {
+   "name": "Bing Theatre",
+   "popularity": 58,
+   "loc":[34.022281575178255,-118.28565744285763],
+   "locationType": "building"
+ },
+  {
+   "name": "Hecuba Statue",
+   "popularity": 90,
+   "loc":[34.02500228028197,-118.2847643551587],
+   "locationType": "statue"
+ },
+  {
+   "name": "Home",
+   "popularity": 2,
+   "loc":[34.02713792283306,-118.30013371302617],
+   "locationType": "home"
+ }
+
+]
